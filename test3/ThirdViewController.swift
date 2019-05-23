@@ -23,6 +23,11 @@ extension ThirdViewController {
         
         fdsflka/
         
+        んdskj。fんじゃsbfj
+        fんdsばmんb、fd
+        
+        dんs。あ。
+        
         
         
     }
