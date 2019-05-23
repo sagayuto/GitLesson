@@ -10,29 +10,14 @@ import UIKit
 import PGFramework
 
 class TopViewController: BaseViewController {
-    let nextview: NextViewController = NextViewController()
-    @IBOutlet weak var topMainView: TopMainView!
-    
-    
-    
-}
-
-// MARK: - Life cycle
-extension TopViewController {
-    override func loadView() {
-        super.loadView()
-        topMainView.delegate = self
-    }
+    l
     
 }
 
 // MARK: - Protocol
 extension TopViewController: TopMainViewDelegate{
     func touchedButton() {
-        transitionViewController(from: self, to: nextview, animated: true)
-    }
-    
-    
+  
 }
 
 // MARK: - method
