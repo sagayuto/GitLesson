@@ -9,11 +9,7 @@
 import UIKit
 import PGFramework
 
-class NextViewController: BaseViewController {
-    
-}
-
-// MARK: - Life cycle
+K: - Life cycle
 extension NextViewController {
     
 }
