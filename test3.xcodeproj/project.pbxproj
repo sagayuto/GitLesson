@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		1163407F9EB79D7397C4B5A2 /* Pods_test3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AFED7A116677C10218E3158 /* Pods_test3.framework */; };
+		3095BE3F2296C359002D0AB1 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3095BE3E2296C359002D0AB1 /* ThirdViewController.swift */; };
+		3095BE412296C360002D0AB1 /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3095BE402296C360002D0AB1 /* ThirdViewController.xib */; };
 		3096C457225DE394008C0EB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3096C456225DE394008C0EB2 /* AppDelegate.swift */; };
 		3096C45C225DE394008C0EB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3096C45A225DE394008C0EB2 /* Main.storyboard */; };
 		3096C45E225DE395008C0EB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3096C45D225DE395008C0EB2 /* Assets.xcassets */; };
@@ -45,6 +47,8 @@
 		0B8D112EEE761E2FE6F319E2 /* Pods-test3UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test3UITests.debug.xcconfig"; path = "Target Support Files/Pods-test3UITests/Pods-test3UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		1E571C75498EA573DAE4D3FC /* Pods_test3Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test3Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3061762F0697E3B11F3429B1 /* Pods-test3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test3.debug.xcconfig"; path = "Target Support Files/Pods-test3/Pods-test3.debug.xcconfig"; sourceTree = "<group>"; };
+		3095BE3E2296C359002D0AB1 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		3095BE402296C360002D0AB1 /* ThirdViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
 		3096C453225DE394008C0EB2 /* test3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3096C456225DE394008C0EB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3096C45B225DE394008C0EB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -135,6 +139,8 @@
 				3096C48A225DE477008C0EB2 /* NextViewController.xib */,
 				3096C48C225DE48E008C0EB2 /* TopMainView.swift */,
 				3096C48E225DE4B4008C0EB2 /* TopMainView.xib */,
+				3095BE3E2296C359002D0AB1 /* ThirdViewController.swift */,
+				3095BE402296C360002D0AB1 /* ThirdViewController.xib */,
 			);
 			path = test3;
 			sourceTree = "<group>";
@@ -288,6 +294,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3095BE412296C360002D0AB1 /* ThirdViewController.xib in Resources */,
 				3096C487225DE44E008C0EB2 /* TopViewController.xib in Resources */,
 				3096C461225DE395008C0EB2 /* LaunchScreen.storyboard in Resources */,
 				3096C45E225DE395008C0EB2 /* Assets.xcassets in Resources */,
@@ -415,6 +422,7 @@
 			files = (
 				3096C485225DE443008C0EB2 /* TopViewController.swift in Sources */,
 				3096C489225DE468008C0EB2 /* NextViewController.swift in Sources */,
+				3095BE3F2296C359002D0AB1 /* ThirdViewController.swift in Sources */,
 				3096C457225DE394008C0EB2 /* AppDelegate.swift in Sources */,
 				3096C48D225DE48E008C0EB2 /* TopMainView.swift in Sources */,
 			);
