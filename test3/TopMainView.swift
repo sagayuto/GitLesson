@@ -30,6 +30,10 @@ extension TopMainView {
         super.awakeFromNib()
         print("dfkldsfklnds,nf,dnsf,dsmnfsm,and.,fnds")
         print("fndjksnfkds")
+        nfdns,mf,mdsn,fmdsf
+        fdsnfkldsnflkas
+        fdsnfm,dsn,fn.as
+        
         print("fndjksnfkds")
         print("fndjksnfkds")
         print("fndjksnfkds")
