@@ -17,18 +17,7 @@ class ThirdViewController: BaseViewController {
 extension ThirdViewController {
     override func loadView() {
         super.loadView()
-        fndjksnfkdnsf
-        fkdfklndsa.
-        fdnsfnds.
-        
-        fdsflka/
-        
-        んdskj。fんじゃsbfj
-        fんdsばmんb、fd
-        
-        dんs。あ。
-        
-        
+       
         
     }
 }
