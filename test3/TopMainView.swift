@@ -29,6 +29,7 @@ extension TopMainView {
     override func awakeFromNib() {
         super.awakeFromNib()
         print("dfkldsfklnds,nf,dnsf,dsmnfsm,and.,fnds")
+        fnkdsnfkldsnf,nd,snf,anm,nfd,nsfm,.ans.m,fndm,.nfas.m,dfm,.ndsm,.afn,
     }
 }
 
