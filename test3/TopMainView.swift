@@ -26,7 +26,10 @@ class TopMainView: BaseView {
 
 // MARK: - Life cycle
 extension TopMainView {
-    
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        print("dfkldsfklnds,nf,dnsf,dsmnfsm,and.,fnds")
+    }
 }
 
 // MARK: - Protocol
